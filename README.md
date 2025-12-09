@@ -1,4 +1,4 @@
-# OpenFashion 👗
+# OpenFashion
 
 A modern, elegant e-commerce mobile application built with Flutter, designed to provide a seamless shopping experience for fashion enthusiasts.
 
